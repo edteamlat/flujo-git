@@ -28,5 +28,5 @@ Agregar remotos
 Eliminar remotos
 `git remote remove EDgit`
 
-Crear un cambio de rama Git Stah
+Crear un cambio de rama Git Stash
 `Git stash guarda información en memoria para después utilizarla`
